@@ -2,4 +2,4 @@
 board = [" "," "," ",
          " "," "," ",
          " "," "," " ]
-Puts board
+puts board
